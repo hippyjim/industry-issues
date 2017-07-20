@@ -2,7 +2,7 @@
 
 ## What is it?
 
-Web Accessibility, [according to the W3C](https://www.w3.org/WAI/intro/accessibility.php):
+Web accessibility, [according to the W3C](https://www.w3.org/WAI/intro/accessibility.php):
 
 > means that people with disabilities can use the Web. More specifically, Web accessibility means that people with disabilities can perceive, understand, navigate, and interact with the Web, and that they can contribute to the Web. Web accessibility also benefits others, including older people with changing abilities due to aging.
 
